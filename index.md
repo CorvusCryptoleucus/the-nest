@@ -2,7 +2,7 @@
 title: Welcome to the Nest
 ---
 
-# Welcome to The Nest: A Portfolio of Code and Caws!
+# A Portfolio of Code and Caws!
 
 Greetings, digital voyagers! You've landed at The Nest, my cozy corner of the web—a place where I'm weaving together my journey through the fascinating world of full-stack development with occasional musings and maybe a touch of avian humor.
 
